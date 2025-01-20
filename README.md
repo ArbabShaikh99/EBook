@@ -8,29 +8,20 @@
     <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
     <th>Read Pdf</th>
     <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
-    <th>All Products</th>
-    <th style="width: 50px;"></th> <!-- Empty cell for spacing -->
-    <th>Product Detail</th>
+  
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/549e17c7-4c4c-4e9a-846f-36147f37fa28" alt="Home Page" width="150">
+      <img src="https://github.com/user-attachments/assets/549e17c7-4c4c-4e9a-846f-36147f37fa28" alt="Home Page" width="300">
     </td>
     <td></td>
     <td>
-      <img src="(https://github.com/user-attachments/assets/5ea631f4-41ff-41bf-9120-ba760ab94dcf" alt="User Profile" width="150">
+      <img src="https://github.com/user-attachments/assets/5ea631f4-41ff-41bf-9120-ba760ab94dcf" alt="User Profile" width="300">
     </td>
     <td></td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d6055cf1-a545-4dcb-a96c-1b659a6a913e" alt="Buy Now" width="150">
+      <img src="https://github.com/user-attachments/assets/d6055cf1-a545-4dcb-a96c-1b659a6a913e" alt="Buy Now" width="300">
     </td>
-    <td></td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/dcdc6382-726e-4ee7-83bf-cfa23c51adce" alt="All Products" width="150">
-    </td>
-    <td></td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/ef13e00c-9657-41b6-8ce6-c6890d8a9ac0" alt="Product Detail" width="150">
     </td>
   </tr>
 </table>
